@@ -1,2 +1,2 @@
 # new.website
-hello coding,
+hello coding!
